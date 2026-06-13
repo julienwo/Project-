@@ -3,5 +3,4 @@
 
 Big Data to me means massive and super complex data sets that exceed the capacity of basic or traditional processing tools.
 
-![Picture of Mount Rainier at Sunset](<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/3b21d0a3-eaf3-454c-87a9-f2929812e23d" />
-)
+![Picture of Mount Rainier at Sunset](https://images.unsplash.com/photo-1599551528722-6b6d968512a2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
